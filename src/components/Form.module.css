@@ -1,0 +1,12 @@
+.form {
+    background-color: purple;
+    justify-content: right;
+    width: 150px;
+    height: 100px;
+    padding: 40px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-top: 1%;
+    
+}
